@@ -7,7 +7,7 @@ export const personalInfo = {
   phone: "+1 (609) 255-9951",
   github: "https://github.com/dharancool",
   linkedin: "https://www.linkedin.com/in/gangatharan08/",
-  resumeUrl: "/assets/Gangatharan_Resume_MSCS.pdf",
+  resumeUrl: "/Gangatharan_Resume.pdf",
   about: `Write your real about me paragraph here. 3-5 sentences about who you are, 
   your background, what you are studying, and what you are looking for.`,
 }
